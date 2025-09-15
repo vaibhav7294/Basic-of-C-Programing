@@ -14,3 +14,21 @@ A simple terminal-based Rock, Paper, Scissors game written in C. Play against th
 - Easily extendable
 
 - 
+## 🧠 How to Play
+After running the program, you'll be prompted to enter:
+
+r for Rock
+
+p for Paper
+
+s for Scissors
+
+The computer randomly chooses its move
+
+The winner is determined based on traditional rules:
+
+Rock beats Scissors
+
+Scissors beats Paper
+
+Paper beats Rock
