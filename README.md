@@ -63,5 +63,21 @@ This project is beginner-friendly and demonstrates the use of loops and basic in
 
 ---
 
+# 📒 File-Based Phone Book in C
+
+A simple **C program** that implements a **phone book** using **file handling**.  
+This program allows you to add, view, search, and delete contacts, with all data stored in a file (`phonebook.dat`) for persistence.
+
+---
+
+## 📌 Features
+- **Add Contact** → Save name and phone number  
+- **View Contacts** → Display all stored contacts  
+- **Search Contact** → Find a contact by name (case-insensitive)  
+- **Delete Contact** → Remove a contact by name  
+- **File-based storage** → Data is stored permanently in `phonebook.dat`  
+
+---
+
 
 
