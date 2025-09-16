@@ -49,5 +49,19 @@ This program asks the user 5 multiple-choice questions about the C programming l
 
 ---
 
+# 📊 Multiplication Table Generator in C
+
+A simple **C program** that generates a multiplication table for a given number up to a specified range.  
+This project is beginner-friendly and demonstrates the use of loops and basic input/output in C.
+
+---
+
+## 📌 Features
+- User inputs any number  
+- User specifies the range (e.g., up to 10, 20, etc.)  
+- Program prints a clean multiplication table  
+
+---
+
 
 
