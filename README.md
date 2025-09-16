@@ -32,3 +32,22 @@ Rock beats Scissors
 Scissors beats Paper
 
 Paper beats Rock
+
+
+# 🎮 C Quiz Game
+
+A simple command-line quiz game written in **C**.  
+This program asks the user 5 multiple-choice questions about the C programming language and gives a final score with feedback.
+
+---
+
+## 📌 Features
+- Interactive **multiple-choice quiz**  
+- Keeps track of the user’s score  
+- Provides **feedback** based on performance  
+- Beginner-friendly C program
+
+---
+
+
+
