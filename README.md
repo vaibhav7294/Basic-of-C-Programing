@@ -79,5 +79,20 @@ This program allows you to add, view, search, and delete contacts, with all data
 
 ---
 
+# GST Calculator 💰
+
+This project is a **GST (Goods and Services Tax) Calculator** in C.  
+It allows the user to calculate the final price of a product after applying GST.
+
+---
+
+## ✨ Features
+- Input base price and GST percentage  
+- Calculate GST amount  
+- Display final price after GST  
+- Works with both integer and float values  
+
+---
+
 
 
